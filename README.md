@@ -1,6 +1,6 @@
 # Ponycave & Ponycave-Plus Skills
 
-Token-saving agent rules—this might be all you need. It just works.
+The only token-saving agent rules you may need.
 
 ## Active Skills
 
