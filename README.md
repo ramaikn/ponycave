@@ -21,9 +21,8 @@ Comparison of file sizes and line counts across active skills and foundational r
 
 | Metric / Attribute | **Ponytail + Caveman** | **FCP v5.3** | **Ponycave v1.0** |
 | :--- | :--- | :--- | :--- |
-| **File** | `reference/ponytail-skill.md` + `reference/caveman-skill.md` | [`FCP.md`](FCP.md) | [`PONYCAVE.md`](PONYCAVE.md) |
-| **File Size** | ~12.1 KB (12,059 B) | ~3.4 KB (3,371 B) | ~1.9 KB (1,907 B) |
-| **Line Count** | 198 lines | 65 lines | 45 lines |
+| **File Size** | ~12.1 KB (12,059 B) | ~3.4 KB (3,371 B) **(72% savings)** | ~1.9 KB (1,907 B) **(84% savings)** |
+| **Line Count** | 198 lines | 65 lines (67% reduction) | 45 lines (77% reduction) |
 | **Scope & Focus** | Combined original reference modules | **All-in-one**: Ponytail + Caveman + safeguards + git commit | **Most compact**: Pure Ponytail + Caveman rules |
 
 ## Legacy & Version Documentation
