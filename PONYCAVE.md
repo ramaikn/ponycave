@@ -3,7 +3,13 @@ name: ponycave
 description: >
   Ponycave — combination of Ponytail minimal engineering and Caveman terse communication.
   Forces minimal code, YAGNI, shortest diffs, and ultra-compressed prose output.
-  Triggers: "ponycave", "ponytail", "caveman", "yagni", "lazy mode", "do less".
+triggers:
+  - "ponycave"
+  - "ponytail"
+  - "caveman"
+  - "yagni"
+  - "lazy mode"
+  - "do less"
 license: MIT
 ---
 
@@ -43,4 +49,3 @@ Terse, direct, technical. Drop articles (a/an/the), filler, pleasantries, hedgin
 ---
 
 Governs coding output and prose communication.
-

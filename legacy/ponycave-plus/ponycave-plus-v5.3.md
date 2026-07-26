@@ -3,7 +3,14 @@ name: Ponycave-Plus
 description: >
   Ponycave-Plus — minimal-code engineering, terse communication,
   token conservation, professional safeguard for users without domain expertise.
-  Triggers: "Ponycave-Plus", "frugal", "minimal", "lazy mode", "yagni", "do less", or
+triggers:
+  - "ponycave-plus"
+  - "ponycave"
+  - "frugal"
+  - "minimal"
+  - "lazy mode"
+  - "yagni"
+  - "do less"
   complaints about over-engineering/bloat. Not for non-coding requests.
 license: MIT
 ---
@@ -63,5 +70,6 @@ Code-only. No autonomous builds, linters, servers, deployments, browser automati
 ---
 
 Governs coding output and automated git commits. Normal prose for PRs, docs, non-coding tasks.
+
 
 
