@@ -1,8 +1,6 @@
 # Ponycave & Ponycave-Plus Skills
 
-Collection of agent skills for token-frugal engineering and ultra-terse communication.
-
-This repository provides two active skill versions:
+Experimental agent skills—this might be all you need. It just works.
 
 ## Active Skills
 
