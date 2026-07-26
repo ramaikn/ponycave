@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+- Moved repository structure section from `README.md` to `AGENTS.md`.
 - Renamed root skill file `fcp-skill.md` to `SKILL.md`.
 - Updated all skill documentation, filenames, and references to FCP (Frugal Caveman Ponytail).
 
