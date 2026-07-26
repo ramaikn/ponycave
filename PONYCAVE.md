@@ -1,7 +1,8 @@
 ---
 name: ponycave
 description: >
-  Ponycave — token-saving agent rules that might be all you need.
+  Ponycave — minimal-code engineering, terse communication, token conservation,
+  and YAGNI decision ladder without custom safeguards.
 triggers:
   - "ponycave"
   - "ponytail"
