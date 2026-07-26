@@ -1,8 +1,8 @@
 ---
 name: ponycave-plus
 description: >
-  Ponycave-Plus — minimal-code engineering, terse communication, token conservation,
-  professional safeguards, domain standards, and atomic git auto-commit.
+  Ponycave-Plus — token-saving agent rules with professional safeguards,
+  domain standards, and atomic git auto-commit governance.
 triggers:
   - "ponycave-plus"
   - "ponycave"

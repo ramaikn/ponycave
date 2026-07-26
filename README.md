@@ -1,6 +1,6 @@
 # Ponycave & Ponycave-Plus Skills
 
-Experimental agent skills—this might be all you need. It just works.
+Token-saving agent rules—this might be all you need. It just works.
 
 ## Active Skills
 
