@@ -17,7 +17,7 @@ Active rulesets:
 ## Repository Structure
 
 ```
-fcp-skill/
+ponycave-skill/
 ├── PONYCAVE+.md              # Main active Ponycave+ skill
 ├── PONYCAVE.md               # Main active Ponycave skill
 ├── README.md                 # Project documentation

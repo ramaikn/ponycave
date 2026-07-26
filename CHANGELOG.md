@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes and version history of the FCP Skills project are continuously documented in this live file.
+All notable changes and version history of the Ponycave & Ponycave+ Skills project are continuously documented in this live file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -29,10 +29,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Preserved YAML header, Persistence, and Professional Guardianship.
 
 ## v4.0 (2026-07-26)
-- Added YAML skill header (`name: fcp`, `description`, `license`).
+- Added YAML skill header (`name: ponycave-plus`, `description`, `license`).
 - Added Persistence rules ("ACTIVE EVERY RESPONSE").
 - Introduced Professional Guardianship and domain risk alerts.
-- Added interactive dialog tool and `# fcp:` debt marking.
+- Added interactive dialog tool and `# ponycave+:` debt marking.
 
 ## v3.0 (2026-07-26)
 - Added cross-platform shell examples.
@@ -47,4 +47,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Unified output templates.
 
 ## v1.0 (2026-07-26)
-- Initial FCP (Frugal Caveman Ponytail) release with 3 core pillars.
+- Initial release of Ponycave & Ponycave+ with core pillars.

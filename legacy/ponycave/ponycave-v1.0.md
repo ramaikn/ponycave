@@ -1,7 +1,7 @@
 # Ponycave v1.0
 
-Initial version of Ponycave combining pure Ponytail (minimal engineering & YAGNI) and Caveman (ultra-terse communication) without custom FCP additions.
+Initial version of Ponycave combining pure Ponytail (minimal engineering & YAGNI) and Caveman (ultra-terse communication) without custom Ponycave+ additions.
 
 - **Engine**: Ponytail Decision Ladder (YAGNI, Reuse, Stdlib, Native, Installed Deps, One-Liner, Minimal Diff).
 - **Communication**: Caveman intensity rules (drop articles, filler, pleasantries; short synonyms; standard acronyms).
-- **Exclusions**: Excludes custom FCP rules (no automated git auto-commit governance, no interactive ask_question rules, no domain risk alerts, no anti-micro-files policy).
+- **Exclusions**: Excludes custom Ponycave+ rules (no automated git auto-commit governance, no interactive ask_question rules, no domain risk alerts, no anti-micro-files policy).
