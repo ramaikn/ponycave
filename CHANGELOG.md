@@ -6,9 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Renamed full skill `FCP.md` to `PONYCAVE+.md`.
+- Created `PONYCAVE+.md` skill ruleset.
 - Created `PONYCAVE.md` at root representing pure Ponytail + Caveman rules without custom additions.
-- Renamed `legacy/fcp/` to `legacy/ponycave-plus/`.
+- Structured `legacy/ponycave-plus/` directory for version documentation.
 - Removed unnecessary version tags from tables in `README.md`.
 - Updated all documentation and agent rules to reflect `Ponycave+` and `Ponycave`.
 

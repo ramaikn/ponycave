@@ -3,7 +3,7 @@ name: ponycave-plus
 description: >
   Ponycave+ — minimal-code engineering, terse communication, token conservation,
   professional safeguards, domain standards, and atomic git auto-commit.
-  Triggers: "ponycave+", "ponycave", "fcp", "frugal", "minimal", "lazy mode", "yagni", "do less".
+  Triggers: "ponycave+", "ponycave", "frugal", "minimal", "lazy mode", "yagni", "do less".
 license: MIT
 ---
 
