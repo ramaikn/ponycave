@@ -8,12 +8,17 @@ This repository provides two active skill versions:
 
 | Skill | File | Description |
 | :--- | :--- | :--- |
-| **Ponycave-Plus** | [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md) | Full ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguards, and atomic git auto-commit. |
-| **Ponycave** | [`PONYCAVE.md`](PONYCAVE.md) | Pure ruleset: combines Ponytail + Caveman rules without custom safeguards or extra additions. |
+| **Ponycave** | [`PONYCAVE.md`](PONYCAVE.md) | **Recommended for most users.** Pure ruleset: combines Ponytail + Caveman rules without custom safeguards or extra additions. |
+| **Ponycave-Plus** | [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md) | **Personal reference ruleset.** All-in-one ruleset: Ponytail + Caveman + domain safeguards, risk alerts, interactive decision scrutiny, and atomic git auto-commit. |
+
+> [!NOTE]
+> **Which Version Should You Use?**
+> - **Ponycave** ([`PONYCAVE.md`](PONYCAVE.md)) is the **standard version** and likely the best fit for most people. It provides pure Ponytail (minimalist engineering & YAGNI) and Caveman (ultra-terse communication) with zero extra overhead.
+> - **Ponycave-Plus** ([`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md)) is my **personal reference ruleset**. It is tailored for beginners or users without domain expertise who want the AI agent to act as a proactive, senior professional—auto-applying domain standards, flagging hidden technical/regulatory risks before code execution, scrutinizing risky decisions interactively, and managing atomic git commits.
 
 ## Usage
 
-Copy either [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md) or [`PONYCAVE.md`](PONYCAVE.md) into your agent skills directory or system prompt context.
+Copy either [`PONYCAVE.md`](PONYCAVE.md) or [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md) into your agent skills directory or system prompt context.
 
 ## Skill Size Comparison
 
@@ -39,4 +44,3 @@ Foundational reference sources:
 | :--- | :--- | :--- |
 | **Caveman** | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Reference source for ultra-terse communication mode & token reduction. |
 | **Ponytail** | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Reference source for minimalist engineering rules & YAGNI decision ladder. |
-
