@@ -2,14 +2,21 @@
 
 Collection of agent skills for token-frugal engineering and ultra-terse communication.
 
-## Active Skills
+## Active Skill
 
 | Skill | File | Description |
 | :--- | :--- | :--- |
-| **FCP v5.3** | [`SKILL.md`](SKILL.md) | All-in-one ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard, atomic git auto-commit. |
-| **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | Standalone compressed communication mode. Cuts response tokens up to 65%. |
-| **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | Standalone minimal engineering ruleset. YAGNI decision ladder & zero over-engineering. |
+| **FCP v5.3** | [`SKILL.md`](SKILL.md) | Main active ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard, and atomic git auto-commit. |
 
 ## Usage
 
-Copy target skill file into agent skills directory or system prompt context.
+Copy [`SKILL.md`](SKILL.md) into your agent skills directory or system prompt context.
+
+## References & Credits
+
+Standalone skill modules in `reference/` serve as foundational reference sources for FCP:
+
+| Skill | File | Role / Description |
+| :--- | :--- | :--- |
+| **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | Reference source for ultra-terse communication mode & token reduction. |
+| **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | Reference source for minimalist engineering rules & YAGNI decision ladder. |
