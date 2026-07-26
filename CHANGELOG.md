@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes and version history of the Ponycave project are continuously documented in this live file.
+All notable changes and version history of the FCP Skills project are continuously documented in this live file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).

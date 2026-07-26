@@ -1,4 +1,4 @@
-# Agent Guidelines
+# Agent Guidelines (FCP Skills)
 
 Repository operating rules for AI agents.
 
