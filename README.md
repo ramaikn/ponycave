@@ -1,22 +1,31 @@
-# FCP Skills
+# FCP & Ponycave Skills
 
 Collection of agent skills for token-frugal engineering and ultra-terse communication.
 
-## Active Skill
+This repository provides two active skill versions:
+
+## Active Skills
 
 | Skill | File | Description |
 | :--- | :--- | :--- |
-| **FCP v5.3** | [`SKILL.md`](SKILL.md) | Main active ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard, and atomic git auto-commit. |
+| **FCP v5.3** | [`FCP.md`](FCP.md) | Full ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard, and atomic git auto-commit. |
+| **Ponycave v1.0** | [`PONYCAVE.md`](PONYCAVE.md) | Pure ruleset: combines Ponytail + Caveman rules without custom FCP safeguards/additions. |
 
 ## Usage
 
-Copy [`SKILL.md`](SKILL.md) into your agent skills directory or system prompt context.
+Copy either [`FCP.md`](FCP.md) or [`PONYCAVE.md`](PONYCAVE.md) into your agent skills directory or system prompt context.
+
+## Legacy & Version Documentation
+
+Version documentation is organized in `legacy/`:
+- `legacy/fcp/`: Version history for FCP (v2.0 – v5.3)
+- `legacy/ponycave/`: Version history for Ponycave (v1.0)
 
 ## References & Credits
 
-Standalone skill modules in `reference/` serve as foundational reference sources for FCP:
+Foundational reference sources:
 
-| Skill | File | Original Source / Credit | Description |
-| :--- | :--- | :--- | :--- |
-| **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Reference source for ultra-terse communication mode & token reduction. |
-| **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Reference source for minimalist engineering rules & YAGNI decision ladder. |
+| Skill | Original Source / Credit | Description |
+| :--- | :--- | :--- |
+| **Caveman** | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Reference source for ultra-terse communication mode & token reduction. |
+| **Ponytail** | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Reference source for minimalist engineering rules & YAGNI decision ladder. |
