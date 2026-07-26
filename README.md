@@ -19,12 +19,12 @@ Copy either [`FCP.md`](FCP.md) or [`PONYCAVE.md`](PONYCAVE.md) into your agent s
 
 Comparison of file sizes and line counts across active skills and foundational reference modules:
 
-| Skill | File | File Size | Line Count | Scope & Focus |
+| Metric / Attribute | **Ponycave v1.0** | **FCP v5.3** | **Caveman** | **Ponytail** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ponycave v1.0** | [`PONYCAVE.md`](PONYCAVE.md) | ~1.9 KB (1,907 B) | 45 lines | **Most compact**: Pure Ponytail + Caveman rules, zero custom overhead. |
-| **FCP v5.3** | [`FCP.md`](FCP.md) | ~3.4 KB (3,371 B) | 65 lines | **All-in-one**: Ponytail + Caveman + safeguards + git auto-commit. |
-| **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | ~5.3 KB (5,304 B) | 78 lines | Standalone reference for communication rules & intensity levels. |
-| **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | ~6.8 KB (6,755 B) | 120 lines | Standalone reference for YAGNI engineering ladder & examples. |
+| **File** | [`PONYCAVE.md`](PONYCAVE.md) | [`FCP.md`](FCP.md) | [`reference/caveman-skill.md`](reference/caveman-skill.md) | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) |
+| **File Size** | ~1.9 KB (1,907 B) | ~3.4 KB (3,371 B) | ~5.3 KB (5,304 B) | ~6.8 KB (6,755 B) |
+| **Line Count** | 45 lines | 65 lines | 78 lines | 120 lines |
+| **Scope & Focus** | **Most compact**: Pure Ponytail + Caveman rules | **All-in-one**: Ponytail + Caveman + safeguards + git commit | Standalone reference for communication rules | Standalone reference for YAGNI engineering ladder |
 
 ## Legacy & Version Documentation
 
