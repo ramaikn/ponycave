@@ -1,8 +1,8 @@
 ---
 name: ponycave
 description: >
-  Ponycave — combination of Ponytail minimal engineering and Caveman terse communication.
-  Forces minimal code, YAGNI, shortest diffs, and ultra-compressed prose output.
+  Ponycave — minimal-code engineering, terse communication, token conservation,
+  and YAGNI decision ladder without custom safeguards.
 triggers:
   - "ponycave"
   - "ponytail"
