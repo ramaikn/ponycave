@@ -2,6 +2,8 @@
 
 The only token-saving agent rules you may need.
 
+*A fusion of [Caveman](https://github.com/JuliusBrussee/caveman) (ultra-terse communication) and [Ponytail](https://github.com/DietrichGebert/ponytail) (minimalist engineering & YAGNI).*
+
 ## Active Skills
 
 | Skill | File | Description |
