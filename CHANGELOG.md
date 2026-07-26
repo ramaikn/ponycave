@@ -6,7 +6,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Added `AGENTS.md` containing repository guidelines for AI agents.
 
 ## v5.3 (2026-07-27)
 - Added explicit atomic Git Auto-Commit governance under Section 3 Execution.
