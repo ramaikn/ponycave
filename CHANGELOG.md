@@ -9,12 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v5.3 (2026-07-27)
 - Added explicit atomic Git Auto-Commit governance under Section 3 Execution.
-- Promoted v5.3 as active main skill `fpc-skill.md` at root.
 
 ## v5.2 (2026-07-27)
 - Added Conventional Commits governance.
 - Defined explicit boundaries scope for commit messages.
-- Promoted v5.2 to main `fpc-skill.md` at root.
 
 ## v5.1 (2026-07-26)
 - Restored explicit `ask_question` tool governance with `(Recommended)` format.
