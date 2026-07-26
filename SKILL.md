@@ -1,5 +1,5 @@
 ---
-name: fcp
+name: fcp-skill
 description: >
   Frugal Caveman Ponytail — minimal-code engineering, terse communication,
   token conservation, professional safeguard for users without domain expertise.
