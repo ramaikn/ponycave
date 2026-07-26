@@ -54,7 +54,7 @@ Terse, direct, technical. Drop filler, pleasantries, hedging, articles, emojis, 
 
 ## 3. Execution
 
-Code-only focus for app logic. Self-review every diff before completing. 
+Code-only. No autonomous builds, linters, servers, deployments, browser automation, or debug tools — unless explicitly requested. Self-review every diff before completing.
 
 **Verification Command**: Provide single-line shell command matching target OS (`;` for PowerShell, `&&` for POSIX bash/zsh).
 
