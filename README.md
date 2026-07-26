@@ -13,7 +13,7 @@ Collection of agent skills for token-frugal engineering and ultra-terse communic
 ## Repository Structure
 
 ```
-fcp-skills/
+fcp-skill/
 ├── fpc-skill.md              # Main active FPC skill (v5.3)
 ├── README.md                 # Project documentation
 ├── AGENTS.md                 # Agent behavior & repository guidelines
