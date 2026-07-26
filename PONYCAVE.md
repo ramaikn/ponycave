@@ -43,3 +43,4 @@ Terse, direct, technical. Drop articles (a/an/the), filler, pleasantries, hedgin
 ---
 
 Governs coding output and prose communication.
+

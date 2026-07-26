@@ -1,12 +1,12 @@
-# Ponycave+ Changelog
+# Ponycave-Plus Changelog
 
-All notable changes and version history of the Ponycave+ skill ruleset.
+All notable changes and version history of the Ponycave-Plus skill ruleset.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Created `PONYCAVE+.md` skill ruleset with professional safeguards, domain standards, and git auto-commit governance.
+- Created `PONYCAVE-PLUS.md` skill ruleset with professional safeguards, domain standards, and git auto-commit governance.
 
 ## v5.3 (2026-07-27)
 - Added explicit atomic Git Auto-Commit governance under Section 3 Execution.
@@ -28,7 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added YAML skill header (`name: ponycave-plus`, `description`, `license`).
 - Added Persistence rules ("ACTIVE EVERY RESPONSE").
 - Introduced Professional Guardianship and domain risk alerts.
-- Added interactive dialog tool and `# ponycave+:` debt marking.
+- Added interactive dialog tool and `# Ponycave-Plus:` debt marking.
 
 ## v3.0 (2026-07-26)
 - Added cross-platform shell examples.
@@ -44,3 +44,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v1.0 (2026-07-26)
 - Initial release of core pillars.
+
