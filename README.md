@@ -16,7 +16,8 @@ Collection of agent skills for token-frugal engineering and ultra-terse communic
 ponycave/
 ├── fpc-skill.md              # Main active FPC skill (v5.3)
 ├── README.md                 # Project documentation
-├── CHANGELOG.md              # Project change history & version log
+├── AGENTS.md                 # Agent behavior & repository guidelines
+├── CHANGELOG.md              # Live changelog tracking skill content changes
 ├── reference/                # Standalone reference skills
 │   ├── caveman-skill.md      # Standalone Caveman skill
 │   ├── ponytail-skill.md     # Standalone Ponytail skill
