@@ -7,7 +7,7 @@ description: >
 license: MIT
 ---
 
-# Ponycave v1.0
+# Ponycave
 
 Combination of Ponytail (minimal engineering) and Caveman (terse communication).
 The best code is code never written. The best explanation is shortest truth.

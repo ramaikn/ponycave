@@ -1,29 +1,29 @@
-# Agent Guidelines (FCP & Ponycave Skills)
+# Agent Guidelines (Ponycave & Ponycave+ Skills)
 
 Repository operating rules for AI agents.
 
 ## Primary Skills
 
 Active rulesets:
-- [`FCP.md`](FCP.md) (v5.3): All-in-one ruleset with professional safeguards and git auto-commit governance.
-- [`PONYCAVE.md`](PONYCAVE.md) (v1.0): Pure Ponytail + Caveman ruleset without extra custom rules.
+- [`PONYCAVE+.md`](PONYCAVE+.md): All-in-one ruleset with professional safeguards, domain standards, and git auto-commit governance.
+- [`PONYCAVE.md`](PONYCAVE.md): Pure Ponytail + Caveman ruleset without extra custom rules.
 
 ## Maintenance Rules
 
-- Refer to [`FCP.md`](FCP.md) or [`PONYCAVE.md`](PONYCAVE.md) for persona, engineering, and style governance.
+- Refer to [`PONYCAVE+.md`](PONYCAVE+.md) or [`PONYCAVE.md`](PONYCAVE.md) for persona, engineering, and style governance.
 - Keep [`CHANGELOG.md`](CHANGELOG.md) updated under `[Unreleased]` strictly for skill content/version changes (do not log general repository maintenance).
-- Place version documentation in [`legacy/`](legacy/) under `legacy/fcp/` and `legacy/ponycave/`.
+- Place version documentation in [`legacy/`](legacy/) under `legacy/ponycave-plus/` and `legacy/ponycave/`.
 
 ## Repository Structure
 
 ```
 fcp-skill/
-├── FCP.md                    # Main active FCP skill (v5.3)
-├── PONYCAVE.md               # Main active Ponycave skill (v1.0)
+├── PONYCAVE+.md              # Main active Ponycave+ skill
+├── PONYCAVE.md               # Main active Ponycave skill
 ├── README.md                 # Project documentation
 ├── AGENTS.md                 # Agent behavior & repository guidelines
 ├── CHANGELOG.md              # Live changelog tracking skill content changes
 └── legacy/                   # Version history & legacy documentation
-    ├── fcp/                  # FCP version history (v2.0 – v5.3)
-    └── ponycave/             # Ponycave version history (v1.0)
+    ├── ponycave-plus/        # Ponycave+ version history
+    └── ponycave/             # Ponycave version history
 ```

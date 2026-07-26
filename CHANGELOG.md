@@ -6,10 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Renamed root skill file `SKILL.md` to `FCP.md`.
+- Renamed full skill `FCP.md` to `PONYCAVE+.md`.
 - Created `PONYCAVE.md` at root representing pure Ponytail + Caveman rules without custom additions.
-- Structured `legacy/` directory with `legacy/fcp/` and `legacy/ponycave/` for version documentation.
-- Updated repository documentation for dual active skill support (FCP and Ponycave).
+- Renamed `legacy/fcp/` to `legacy/ponycave-plus/`.
+- Removed unnecessary version tags from tables in `README.md`.
+- Updated all documentation and agent rules to reflect `Ponycave+` and `Ponycave`.
 
 ## v5.3 (2026-07-27)
 - Added explicit atomic Git Auto-Commit governance under Section 3 Execution.

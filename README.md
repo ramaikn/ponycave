@@ -1,4 +1,4 @@
-# FCP & Ponycave Skills
+# Ponycave & Ponycave+ Skills
 
 Collection of agent skills for token-frugal engineering and ultra-terse communication.
 
@@ -8,18 +8,18 @@ This repository provides two active skill versions:
 
 | Skill | File | Description |
 | :--- | :--- | :--- |
-| **FCP v5.3** | [`FCP.md`](FCP.md) | Full ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard, and atomic git auto-commit. |
-| **Ponycave v1.0** | [`PONYCAVE.md`](PONYCAVE.md) | Pure ruleset: combines Ponytail + Caveman rules without custom FCP safeguards/additions. |
+| **Ponycave+** | [`PONYCAVE+.md`](PONYCAVE+.md) | Full ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguards, and atomic git auto-commit. |
+| **Ponycave** | [`PONYCAVE.md`](PONYCAVE.md) | Pure ruleset: combines Ponytail + Caveman rules without custom safeguards or extra additions. |
 
 ## Usage
 
-Copy either [`FCP.md`](FCP.md) or [`PONYCAVE.md`](PONYCAVE.md) into your agent skills directory or system prompt context.
+Copy either [`PONYCAVE+.md`](PONYCAVE+.md) or [`PONYCAVE.md`](PONYCAVE.md) into your agent skills directory or system prompt context.
 
 ## Skill Size Comparison
 
 Comparison of file sizes and line counts across active skills and foundational reference modules:
 
-| Metric / Attribute | **Ponytail + Caveman** | **FCP v5.3** | **Ponycave v1.0** |
+| Metric / Attribute | **Ponytail + Caveman** | **Ponycave+** | **Ponycave** |
 | :--- | :--- | :--- | :--- |
 | **File Size** | ~12.1 KB (12,059 B) | ~3.4 KB (3,371 B) **(72% savings)** | ~1.9 KB (1,907 B) **(84% savings)** |
 | **Line Count** | 198 lines | 65 lines (67% reduction) | 45 lines (77% reduction) |
@@ -28,8 +28,8 @@ Comparison of file sizes and line counts across active skills and foundational r
 ## Legacy & Version Documentation
 
 Version documentation is organized in `legacy/`:
-- `legacy/fcp/`: Version history for FCP (v2.0 – v5.3)
-- `legacy/ponycave/`: Version history for Ponycave (v1.0)
+- `legacy/ponycave-plus/`: Historical drafts and version documentation for Ponycave+
+- `legacy/ponycave/`: Version documentation for Ponycave
 
 ## References & Credits
 
