@@ -6,7 +6,7 @@ Collection of agent skills for token-frugal engineering and ultra-terse communic
 
 | Skill | File | Description |
 | :--- | :--- | :--- |
-| **FPC v5.2** | [`fpc-skill.md`](fpc-skill.md) | All-in-one ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard. |
+| **FPC v5.3** | [`fpc-skill.md`](fpc-skill.md) | All-in-one ruleset: minimal engineering (Ponytail), terse communication (Caveman), token frugality, professional safeguard, atomic git auto-commit. |
 | **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | Standalone compressed communication mode. Cuts response tokens up to 65%. |
 | **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | Standalone minimal engineering ruleset. YAGNI decision ladder & zero over-engineering. |
 
@@ -14,13 +14,14 @@ Collection of agent skills for token-frugal engineering and ultra-terse communic
 
 ```
 ponycave/
-├── fpc-skill.md              # Main active FPC skill (v5.2)
+├── fpc-skill.md              # Main active FPC skill (v5.3)
 ├── README.md                 # Project documentation
+├── CHANGELOG.md              # Project change history & version log
 ├── reference/                # Standalone reference skills
 │   ├── caveman-skill.md      # Standalone Caveman skill
 │   ├── ponytail-skill.md     # Standalone Ponytail skill
 │   └── README.md             # Reference documentation
-└── archive/                  # Historical draft versions (v2 – v5.2)
+└── archive/                  # Historical draft versions (v2 – v5.3)
 ```
 
 ## Usage
