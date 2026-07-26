@@ -16,7 +16,7 @@ Copy [`SKILL.md`](SKILL.md) into your agent skills directory or system prompt co
 
 Standalone skill modules in `reference/` serve as foundational reference sources for FCP:
 
-| Skill | File | Role / Description |
-| :--- | :--- | :--- |
-| **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | Reference source for ultra-terse communication mode & token reduction. |
-| **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | Reference source for minimalist engineering rules & YAGNI decision ladder. |
+| Skill | File | Original Source / Credit | Description |
+| :--- | :--- | :--- | :--- |
+| **Caveman** | [`reference/caveman-skill.md`](reference/caveman-skill.md) | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Reference source for ultra-terse communication mode & token reduction. |
+| **Ponytail** | [`reference/ponytail-skill.md`](reference/ponytail-skill.md) | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Reference source for minimalist engineering rules & YAGNI decision ladder. |
