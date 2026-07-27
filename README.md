@@ -31,7 +31,7 @@ Comparison of file sizes and line counts across active skills and foundational r
 
 | Metric / Attribute | **Ponytail + Caveman** | **Ponycave-Plus** | **Ponycave** |
 | :--- | :--- | :--- | :--- |
-| **File Size** | ~12.1 KB (12,059 B) | ~3.8 KB (3,771 B) **(69% savings)** | ~2.1 KB (2,061 B) **(83% savings)** |
+| **File Size** | ~12.1 KB (12,059 B) | ~3.9 KB (3,936 B) **(67% savings)** | ~2.1 KB (2,061 B) **(83% savings)** |
 | **Line Count** | 198 lines | 79 lines (60% reduction) | 54 lines (73% reduction) |
 | **Scope & Focus** | Combined original reference modules | **All-in-one**: Ponytail + Caveman + safeguards + git commit governance | **Most compact**: Pure Ponytail + Caveman rules |
 
