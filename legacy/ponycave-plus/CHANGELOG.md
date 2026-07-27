@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## v6.1 (2026-07-27)
+- Added explicit epistemic humility & honesty about correctness rule under Section 3 ("best-effort static review, not a correctness guarantee").
+- Refined one-liner decision ladder rung to enforce readability and mandate multi-line form when explanatory comments are needed.
+- Added plain-text fallback handling for risky requests when `ask_question` tool is unavailable.
+- Added self-correction check prompt every ~15 turns to prevent mode drift.
+
 ## v6.0 (2026-07-27)
 - Changed Git Auto-Commit to Git Commit Governance requiring explicit user confirmation before commit execution.
 - Refined YAML metadata description and triggers list to eliminate contradictions and generic word false positives.
