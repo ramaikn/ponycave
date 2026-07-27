@@ -6,9 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Created `PONYCAVE-PLUS.md` skill ruleset with professional safeguards, domain standards, and git auto-commit governance.
 
-## v5.3 (2026-07-27)
+## v6.0 (2026-07-27)
+- Changed Git Auto-Commit to Git Commit Governance requiring explicit user confirmation before commit execution.
+- Refined YAML metadata description and triggers list to eliminate contradictions and generic word false positives.
+- Scoped `no arrows (->)` restriction strictly to response prose, permitting code syntax (TS types, pointers).
+- Added concise before/after style output example in Section 1.
 - Added explicit atomic Git Auto-Commit governance under Section 3 Execution.
 
 ## v5.2 (2026-07-27)
