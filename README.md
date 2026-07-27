@@ -4,6 +4,11 @@ The only token-saving agent rules you may need.
 
 *A fusion of [Caveman](https://github.com/JuliusBrussee/caveman) (ultra-terse communication) and [Ponytail](https://github.com/DietrichGebert/ponytail) (minimalist engineering & YAGNI).*
 
+## Core Philosophy
+
+- **Simplicity & Minimalism**: Prioritizes concise communication and minimal code footprint. Unnecessary abstractions, speculative features, and verbose explanations are eliminated by default.
+- **No Command Bloat**: Rejects artificial tiering and redundant command variants (e.g., `lite`, `full`, `max`). The rulesets maintain a clean, unified, and easy-to-maintain structure without unnecessary complexity.
+
 ## Active Skills
 
 | Skill | File | Description |
