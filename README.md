@@ -14,12 +14,12 @@ The only token-saving agent rules you may need.
 | Skill | File | Description |
 | :--- | :--- | :--- |
 | **Ponycave** | [`PONYCAVE.md`](PONYCAVE.md) | **Recommended for most users.** Pure ruleset: combines Ponytail + Caveman rules without custom safeguards or extra additions. |
-| **Ponycave-Plus** | [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md) | **Personal reference ruleset.** All-in-one ruleset: Ponytail + Caveman + domain safeguards, risk alerts, interactive decision scrutiny, and atomic git auto-commit. |
+| **Ponycave-Plus** | [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md) | **Personal reference ruleset.** All-in-one ruleset: Ponytail + Caveman + domain safeguards, risk alerts, interactive decision scrutiny, and git commit governance. |
 
 > [!NOTE]
 > **Which Version Should You Use?**
 > - **Ponycave** ([`PONYCAVE.md`](PONYCAVE.md)) is the **standard version** and likely the best fit for most people. It provides pure Ponytail (minimalist engineering & YAGNI) and Caveman (ultra-terse communication) with zero extra overhead.
-> - **Ponycave-Plus** ([`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md)) is my **personal reference ruleset**. It is tailored for beginners or users without domain expertise who want the AI agent to act as a proactive, senior professional—auto-applying domain standards, flagging hidden technical/regulatory risks before code execution, scrutinizing risky decisions interactively, and managing atomic git commits.
+> - **Ponycave-Plus** ([`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md)) is my **personal reference ruleset**. It is tailored for beginners or users without domain expertise who want the AI agent to act as a proactive, senior professional—auto-applying domain standards, flagging hidden technical/regulatory risks before code execution, scrutinizing risky decisions interactively, and managing git commit governance with explicit user confirmation.
 
 ## Usage
 
@@ -31,9 +31,9 @@ Comparison of file sizes and line counts across active skills and foundational r
 
 | Metric / Attribute | **Ponytail + Caveman** | **Ponycave-Plus** | **Ponycave** |
 | :--- | :--- | :--- | :--- |
-| **File Size** | ~12.1 KB (12,059 B) | ~3.4 KB (3,371 B) **(72% savings)** | ~1.9 KB (1,907 B) **(84% savings)** |
-| **Line Count** | 198 lines | 65 lines (67% reduction) | 45 lines (77% reduction) |
-| **Scope & Focus** | Combined original reference modules | **All-in-one**: Ponytail + Caveman + safeguards + git commit | **Most compact**: Pure Ponytail + Caveman rules |
+| **File Size** | ~12.1 KB (12,059 B) | ~3.8 KB (3,771 B) **(69% savings)** | ~2.1 KB (2,061 B) **(83% savings)** |
+| **Line Count** | 198 lines | 79 lines (60% reduction) | 54 lines (73% reduction) |
+| **Scope & Focus** | Combined original reference modules | **All-in-one**: Ponytail + Caveman + safeguards + git commit governance | **Most compact**: Pure Ponytail + Caveman rules |
 
 ## Legacy & Version Documentation
 

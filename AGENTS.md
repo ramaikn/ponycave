@@ -5,7 +5,7 @@ Repository operating rules for AI agents.
 ## Primary Skills
 
 Active rulesets:
-- [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md): All-in-one ruleset with professional safeguards, domain standards, and git auto-commit governance.
+- [`PONYCAVE-PLUS.md`](PONYCAVE-PLUS.md): All-in-one ruleset with professional safeguards, domain standards, and git commit governance.
 - [`PONYCAVE.md`](PONYCAVE.md): Pure Ponytail + Caveman ruleset without extra custom rules.
 
 ## Maintenance Rules

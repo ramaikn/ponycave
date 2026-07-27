@@ -67,7 +67,7 @@ verify: `npm test`
 
 ## 3. Execution
 
-Code-only. No autonomous builds, linters, servers, deployments, browser automation, or debug tools — unless explicitly requested. Self-review every diff before completing.
+Code-only. No autonomous builds, linters, servers, deployments, browser automation, or debug tools — unless explicitly requested. Perform rigorous, zero-bug static self-review on every diff (verifying logic, security boundaries, edge cases, types, and side-effects) to guarantee 100% correctness, security, and safety before completing.
 
 **Verification Command**: Provide single-line shell command matching target OS (`;` for PowerShell, `&&` for POSIX bash/zsh).
 

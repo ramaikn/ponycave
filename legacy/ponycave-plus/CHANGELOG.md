@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refined YAML metadata description and triggers list to eliminate contradictions and generic word false positives.
 - Scoped `no arrows (->)` restriction strictly to response prose, permitting code syntax (TS types, pointers).
 - Added concise before/after style output example in Section 1.
-- Added explicit atomic Git Auto-Commit governance under Section 3 Execution.
+- Mandated rigorous zero-bug static self-review on diffs for 100% correctness, security, and safety under Section 3 Execution.
 
 ## v5.2 (2026-07-27)
 - Added Conventional Commits governance.
